@@ -1,6 +1,6 @@
 {
   "name": "@sigma/ext-themes",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "main": "./index.js",
   "publishConfig": {
     "registry": "https://nxs.sigma-it.ru/repository/npm-sigma-release/"

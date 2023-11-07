@@ -10,12 +10,7 @@
   "type": "framework",
   "signatures": [
     {
-      "name": "Sencha",
-      "uuid": "1d6b0d9c-3333-4e65-885f-5b07a1fc3198",
-      "created": "2020-01-14T07:08:07Z",
-      "algorithm": "SHA1withRSA",
-      "nonce": "7nieRql1fas\u003d",
-      "signature": "UjGi4mP+Kp+YsuDnMvsGW+WAq1tB3AxpaZUL9VKqj8M7rPHwTAa11w5AG8hYisuic+h2sqEevIL0UQ6CBwBGQHsZOC0qpYi5wmYGouiGPAkTiGyZv1Qh0Ocvy2EVHMstXgjwkIGG64Pe5rP1wfgu+3of0Qpi0vu/XhPTaCAKkr5GVHoLbSPlsBIxjeKSro7C/m4eeQDCIxjwypW2aVk3kpyqqQmhDQjRxy+qEK652uWDUgOB6wIXLK2fVzhqgRSPudOm6HB7uS5re3qEHN0JmICW8sTnPTrYeUVilBoibBrcltwg3PPZqMpcwRvSumnE+60U1GYZTpd9Cq1OiiEusw\u003d\u003d"
+      "created": "1900-01-01T00:00:00Z"
     }
   ],
   "output": "${package.dir}/build",
