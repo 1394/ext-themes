@@ -1,0 +1,8 @@
+.idea
+/pnpm-lock.yaml
+/**/Readme.md
+/**/.sencha
+/**/example
+/**/test
+/**/index.js
+!/index.js
