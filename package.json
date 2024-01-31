@@ -2,6 +2,10 @@
   "name": "@sigma/ext-themes",
   "version": "1.0.4",
   "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "http://gitlab-dbr.sigma-it.local/ivanovayu/ext-themes.git"
+  },
   "publishConfig": {
     "registry": "https://nxs.sigma-it.ru/repository/npm-sigma-release/"
   }
